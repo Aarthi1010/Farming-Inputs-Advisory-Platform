@@ -1,16 +1,118 @@
-# React + Vite
+🌱 Farming Inputs Advisory Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Overview
+The Farming Inputs Advisory Platform is a web-based application designed to help farmers make informed agricultural decisions. It provides personalized recommendations for seeds, fertilizers, irrigation, and crop management based on location and environmental conditions. The platform also includes weather updates, disease information, and an AI-powered chatbot to assist farmers with their queries.
 
-Currently, two official plugins are available:
+🚀 Features
+- 🌾 Crop recommendation based on location
+- 🌱 Seed and fertilizer suggestions
+- 💧 Irrigation guidance
+- 🌦️ Weather updates
+- 🦠 Crop disease information and prevention tips
+- 🤖 AI-powered chatbot for farmer assistance
+- 👨‍🌾 User-friendly interface
+- 🔒 Secure login and registration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Technologies Used
 
-## React Compiler
+Frontend
+- HTML5
+- CSS3
+- JavaScript
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Backend
+- Java
+- JSP
+- Servlets
 
-## Expanding the ESLint configuration
+Database
+- MySQL
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Server
+- Apache Tomcat
+
+Tools
+- Eclipse IDE
+- MySQL Workbench
+- Git & GitHub
+
+📂 Project Structure
+
+```
+Farming-Inputs-Advisory-Platform/
+│
+├── src/
+├── WebContent/
+│   ├── css/
+│   ├── images/
+│   ├── js/
+│   ├── WEB-INF/
+│   └── *.jsp
+├── database/
+├── README.md
+└── pom.xml (if Maven project)
+```
+
+⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Farming-Inputs-Advisory-Platform.git
+```
+
+2. Import the project into Eclipse IDE.
+
+3. Configure Apache Tomcat Server.
+
+4. Create a MySQL database.
+
+5. Import the SQL file into MySQL.
+
+6. Update database credentials in the project.
+
+7. Run the project on Apache Tomcat.
+
+💻 Usage
+
+1. Register or log in to the platform.
+2. Enter your farming location and crop details.
+3. Receive recommendations for:
+   - Suitable crops
+   - Seeds
+   - Fertilizers
+   - Irrigation methods
+4. View weather updates.
+5. Chat with the AI assistant for farming guidance.
+
+📸 Screenshots
+
+Add screenshots here after uploading them.
+
+Example:
+
+- Home Page
+- Login Page
+- Dashboard
+- Recommendation Page
+- Chatbot
+- Weather Page
+
+🎯 Future Enhancements
+
+- AI-based crop disease detection using images
+- Real-time weather forecasting
+- Mobile application
+- Voice assistant in regional languages
+- Market price prediction
+- Government scheme recommendations
+
+👩‍💻 Authors
+
+**Aarthi Pasare**
+
+B.Tech – Computer Science and Engineering
+
+📄 License
+
+This project is developed for educational and academic purposes.
