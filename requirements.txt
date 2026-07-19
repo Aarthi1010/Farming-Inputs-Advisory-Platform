@@ -1,0 +1,17 @@
+1. https://www.python.org/downloads/
+   python 3.12 version
+
+2. https://nodejs.org/en 
+   version---- 22 or 24
+
+3. https://dev.mysql.com/downloads/installer/
+   download --- > Windows (x86, 32-bit), MSI Installer	8.0.45	556.0M
+
+4. Frontend
+   npm install
+
+5. Backend
+   pip install Django==5.2.7
+   pip install djangorestframework==3.16.1
+   pip install pymysql==1.1.2
+   pip install django-cors-headers==4.9.0
